@@ -1,5 +1,5 @@
 # Hotel-Data-Analytics-
-AtliQ Hotels Data Analysis Project
+
 In the AtliQ Hotels Data Analysis project, I conducted a comprehensive analysis of hotel bookings data to extract valuable insights. The project involved multiple stages, including data import, exploration, cleaning, transformation, and insight generation.
 
 1. Data Import and Exploration:
